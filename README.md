@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming related to modifying list elements within a for loop.  The issue stems from R's pass-by-value behavior, which can lead to unexpected results if not handled correctly. The `bug.R` file shows the incorrect approach, while `bugSolution.R` provides the correct solution.
